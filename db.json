@@ -4,14 +4,18 @@
       "email": "matheus18serafim@gmail.com",
       "password": "$2a$10$Cx2.hDhVlSqnlXAWGOMN6uGcFg86l1q3W.wWD.GLYzDAkzz5lMyvm",
       "id": 1
-    },
-    {
-      "email": "matheusserafim@gmail.com",
-      "password": "$2a$10$uZ.NdG/oxQAELVpwi0RJ2e8iuhIjB14/GzAhJIbinAAD3KpoRgWZW",
-      "id": 2
     }
   ],
   "tasks": [],
-  "products": [],
+  "products": [
+    {
+      "title": "Hamburgue de Frango",
+      "description": "Pão de x, 2 hamburguem de frango, tomate, alface, queijo, presundo",
+      "price": "15.99",
+      "amount": "0",
+      "completed": true,
+      "id": 2
+    }
+  ],
   "comments": []
 }
